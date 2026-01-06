@@ -1,0 +1,226 @@
+{
+  "main": {
+    "id": "685fd4a149ef8d48",
+    "type": "split",
+    "children": [
+      {
+        "id": "94c3a691e1faa228",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33e1607f4a2d87a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data/interim/interim.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "interim"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a031dd1505ec4724",
+    "type": "split",
+    "children": [
+      {
+        "id": "4f2a01376142ea25",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f0238f9934744d5",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "8ed478f09416b3d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "56beefe389e5b7cb",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "419256d7d8fc6f97",
+    "type": "split",
+    "children": [
+      {
+        "id": "c4af08d2cd8136ba",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0cd24ac00e5d55b0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "data/interim/interim.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de interim"
+            }
+          },
+          {
+            "id": "70d0dfadaf3bd7c5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "data/interim/interim.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de interim"
+            }
+          },
+          {
+            "id": "ef8bab5318c5b959",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "e172015ce7b94f6f",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "5da6f1ff348cf383",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "data/interim/interim.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de interim"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "33e1607f4a2d87a0",
+  "lastOpenFiles": [
+    "data/raw/raw.md",
+    "data/interim/interim.md",
+    "data/raw/nivel.md",
+    "data/raw/aisp.md",
+    "data/raw/sil.md",
+    "data/raw/snd.md",
+    "data/data.md",
+    "00_Index/Index.md.md",
+    "notebooks/notebooks.md",
+    "notebooks.md",
+    "data/processed/processed.md",
+    "data/external/external.md",
+    "data.md",
+    "data/raw/nivel_plot_overview.png",
+    "data/raw/aisp.csv",
+    "data/raw/snd.csv",
+    "data/raw/sil.csv",
+    "data/raw/nivel.csv",
+    "00_Index/Index.md",
+    "bitacora/bitacora.md",
+    "decisiones/decisiones.md",
+    "docs/docs.md",
+    "scr/scr.md",
+    "data/raw/raw.md.md",
+    "data/data.md.md",
+    "notebooks/notebook.md.md",
+    "raw.md",
+    "decisiones/decisiones.md.md",
+    "bitacora/bitacora.md.md",
+    "decisiones",
+    "bitacora",
+    "docs.md",
+    "docs/docs.md.md",
+    "notebooks/snd",
+    "notebooks/sil",
+    "notebooks/nivel",
+    "notebooks/merged"
+  ]
+}
