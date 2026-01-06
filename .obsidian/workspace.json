@@ -185,6 +185,7 @@
   },
   "active": "33e1607f4a2d87a0",
   "lastOpenFiles": [
+    "00_Index/Index.md",
     "data/raw/raw.md",
     "data/interim/interim.md",
     "data/raw/nivel.md",
@@ -203,7 +204,6 @@
     "data/raw/snd.csv",
     "data/raw/sil.csv",
     "data/raw/nivel.csv",
-    "00_Index/Index.md",
     "bitacora/bitacora.md",
     "decisiones/decisiones.md",
     "docs/docs.md",
