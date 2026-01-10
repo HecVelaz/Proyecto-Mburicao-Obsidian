@@ -1,55 +1,35 @@
-<!-- Nota principal de la carpeta data -->
-
 # Carpeta `data`
 
 ## Propósito
+En ésta carpeta se encuentran  4 carpetas , raw , interim, processed y external
 Esta carpeta contiene **los datos base del proyecto**.
-Todo el procesamiento, análisis y visualización parte de los archivos
-almacenados aquí.
-### Subcarpetas
+Todo el procesamiento almacenados aquí.
+## Contenido
+Descripción general de los tipos de archivos que se encuentran aquí.
+
 - [[raw]]
+-  [[interim]]
 - [[processed]]
-- [[interim]]
 - [[external]]
-## Origen de los datos
+## Archivos relevantes
 
-- Fuente: (describir brevemente de dónde salen los datos)
-- Método de obtención: (manual / descarga / sensor / exportación)
-- Fecha o período: (si aplica)
+### Datos
+- `raw.csv`             — Datos sin procesar , los datos almacenados aquí están sin nigún cambio
+- `interim.csv`      — El siguiente paso , los datos raw se analizan y se guardan en external , aquí se cambian los nombres de las columnas 
+- `processed.csv`  —siguiente paso los datos de la carpeta ==`interim`== fueron pre procesados con el objetivo de unificar la resolución temporal y estabilizar la precisión numérica.
+- `external.csv`    — Último paso ,  se realizaron combinaciones a los conjuntos de datos de==**`processed`***== 
+### Notebooks
+-  Sin scripts en ésta carpeta
 
-## Estructura interna
-
-- `raw/`
-  Contiene los datos originales del proyecto en formato CSV.
-  Cada archivo representa una variable o medición distinta, diferentes estaciones.
-
-- `processed/`
-  Contiene los datos procesados y limpios a partir de `raw/`.
-
-- `external/`
-  Datos de fuentes externas utilizados como complemento.
-
-
-> Nota: **no modificar los datos en `raw/`**.  
-
-## Formato de los archivos
-- Tipo de archivo: (CSV / XLSX )
-- Separador decimal / columnas relevantes
-- Codificación (si aplica)
-
-## Cómo se usan estos datos
-- Notebooks que los consumen:
-  - `notebooks/<nombre>.ipynb`
-- Scripts relacionados:
-  - `scr/<script>.py`
-
-## Validaciones básicas
-- Qué verificar antes de usar los datos:
-  - valores faltantes
-  - unidades
-  - rangos esperados
-  - separadores decimales , comas , puntos .
-
+## Flujo de uso
+Cómo se usan estos archivos en conjunto.
+flujo del trabajo
+`raw` ----- `interim` ----- `processed` ----- `external`
+## Entradas
+- `raw`
+## Salidas
+- `external`
 ## Observaciones
-- Supuestos importantes
-- Limitaciones conocidas
+- Supuestos
+- Limitaciones
+- Notas importantes

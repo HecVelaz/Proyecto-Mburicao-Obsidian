@@ -22,7 +22,3 @@ Cada archivo representa un conjunto de mediciones diferente.
   Imagen exploratoria generada a partir de `nivel.csv`.
 
 
-- [[nivel]]
-- [[sil]]
-- [[snd]]
-- [[aisp]]

@@ -1,0 +1,7 @@
+[[notebooks/merged/aisp/aisp|aisp]]
+[[asip_local]]
+[[all]]
+[[notebooks/merged/sil/sil|sil]]
+[[snd]]
+[[snd_aisp]]
+[[snd_local]]
