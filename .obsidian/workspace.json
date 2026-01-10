@@ -22,7 +22,7 @@
             }
           },
           {
-            "id": "838001bdba70dab8",
+            "id": "1538ca3edb277980",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,35 +36,45 @@
             }
           },
           {
-            "id": "824345f322ead40e",
+            "id": "838001bdba70dab8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notebooks/notebooks.md",
+                "file": "notebooks/merged/sil/sil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "notebooks"
+              "title": "sil"
             }
           },
           {
-            "id": "1ffe48e6f15e1bd0",
+            "id": "bef1fb0287e97863",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notebooks/merged/aisp/aisp.md",
+                "file": "scr/data/data.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aisp"
+              "title": "data"
+            }
+          },
+          {
+            "id": "161a501edb3a3f20",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -226,45 +236,45 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "824345f322ead40e",
+  "active": "161a501edb3a3f20",
   "lastOpenFiles": [
-    "notebooks/merged/aisp_local/asip_local.md",
-    "notebooks/merged/aisp/aisp.md",
+    "scr/data/data.md",
+    "notebooks/merged/sil/sil.md",
     "FORMATO.md",
-    "notebooks/merged/aisp_local/aisp_local_nivel_merged_mutal_information.ipynb",
-    "notebooks/merged/aisp_local/aisp_local_nivel_merged_cross_correlation.ipynb",
-    "notebooks/merged/aisp_local/aisp_local_nivel.ipynb",
-    "notebooks/merged/aisp_local/aisp_local_nivel_merged_plot.ipynb",
+    "notebooks/merged/sil/sil_nivel_merged_cross_correlation.ipynb",
+    "notebooks/merged/sil/sil_nivel.ipynb",
+    "notebooks/merged/sil/sil_nivel_merged_plot.ipynb",
+    "notebooks/merged/sil/sil_nivel_merged_mutal_information.ipynb",
+    "notebooks/nivel/nivel.md",
+    "notebooks/merged/aisp_local/asip_local.md",
+    "bitacora/bitacora.md",
+    "notebooks/nivel/peaks/peaks.md",
+    "notebooks/merged/all/all.md",
+    "notebooks/merged/aisp/aisp.md",
+    "notebooks/merged/all/(Local)sil_snd_aisp_nivel_merged_plot.ipynb",
+    "notebooks/merged/all/(Local)sil_snd_aisp_nivel.ipynb",
+    "notebooks/merged/all/sil_snd_aisp_nivel_merged_plot.ipynb",
+    "notebooks/merged/all/sil_snd_aisp_nivel.ipynb",
+    "notebooks/merged/all/Mutual_information.ipynb",
+    "notebooks/merged/all/Cross_correlation.ipynb",
+    "notebooks/notebooks.md",
+    "[notebooks/features/global_duration_counts.csv.md",
     "notebooks/merged/merged.md",
     "notebooks/merged/snd_local/snd_local.md",
     "notebooks/merged/snd_aisp/snd_aisp.md",
     "notebooks/merged/snd/snd.md",
-    "notebooks/merged/sil/sil.md",
-    "notebooks/merged/all/all.md",
-    "notebooks/merged/aisp/aisp_nivel_merged_cross_correlation.ipynb",
-    "notebooks/merged/aisp/aisp_nivel.ipynb",
-    "notebooks/merged/aisp/aisp_nivel_merged_plot.ipynb",
-    "notebooks/merged/snd_local",
-    "notebooks/merged/snd_aisp",
-    "notebooks/merged/snd",
-    "notebooks/notebooks.md",
     "notebooks/merged/Sin título.md",
     "notebooks/Map Heat/Map Heat.md",
     "notebooks/Map Heat/heatmap.png",
     "notebooks/features/features.md",
-    "scr/data/data.md",
     "[notebooks/features/global_duration_counts.csv 2.md",
     "[global_duration_counts.csv.md",
     "[notebooks/features/global_duration_counts.csv 1.md",
-    "[notebooks/features/global_duration_counts.csv.md",
     "notebooks/aisp/aisp.md",
     "notebooks/features/duration.ipynb.md",
     "notebools/features/categorize_critical_event_by_data_extraction.ipynb.md",
     "notebools/features.md",
-    "notebooks/csv_to_excel/csv_to_excel.md",
     "notebooks/Map Heat/heatmap_aisp_adjusted_bold_labels.png",
-    "data/data.md",
-    "data/external/external.md",
     "data/raw/nivel_plot_overview.png",
     "notebooks/Map Heat/heatmap_sil_adjusted_bold_labels.png",
     "notebooks/Map Heat/heatmap_snd_adjusted_bold_labels.png",
