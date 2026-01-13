@@ -34,9 +34,19 @@
               "icon": "lucide-file",
               "title": "aisp"
             }
+          },
+          {
+            "id": "145d66eef8317212",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nueva pestaña"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -198,11 +208,11 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "bef1fb0287e97863",
+  "active": "145d66eef8317212",
   "lastOpenFiles": [
+    "notebooks/aisp/aisp.md",
     "notebooks/Map Heat/Map Heat.md",
     "notebooks/aisp/aisp_utc_local.ipynb.md",
-    "notebooks/aisp/aisp.md",
     "notebook/aisp/aisp_preprocessing.ipynb.md",
     "notebook/aisp",
     "notebook",
