@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notebooks/merged/aisp/aisp.md",
+                "file": "notebooks/merged/aisp_local/asip_local.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "aisp"
+              "title": "asip_local"
             }
           }
         ],
@@ -214,6 +214,9 @@
   },
   "active": "145d66eef8317212",
   "lastOpenFiles": [
+    "notebooks/merged/aisp_local/aisp_local_nivel_cross_correlation.ipynb.md",
+    "notebooks/merged/aisp_local/asip_local.md",
+    "notebooks/merged/aisp/aisp.md",
     "notebooks/merged/merged.md",
     "notebooks/features/features.md",
     "notebooks/csv_to_excel/csv_to_excel.md",
@@ -224,7 +227,6 @@
     "notebook/aisp/aisp_preprocessing.ipynb.md",
     "notebook/aisp",
     "notebook",
-    "notebooks/merged/aisp/aisp.md",
     "scr/data/data.md",
     "notebooks/merged/sil/sil.md",
     "FORMATO.md",
@@ -234,7 +236,6 @@
     "notebooks/merged/sil/sil_nivel_merged_plot.ipynb",
     "notebooks/merged/sil/sil_nivel_merged_mutal_information.ipynb",
     "notebooks/nivel/nivel.md",
-    "notebooks/merged/aisp_local/asip_local.md",
     "bitacora/bitacora.md",
     "notebooks/nivel/peaks/peaks.md",
     "notebooks/merged/all/all.md",
@@ -250,7 +251,6 @@
     "notebooks/Map Heat/heatmap.png",
     "[notebooks/features/global_duration_counts.csv 2.md",
     "[global_duration_counts.csv.md",
-    "[notebooks/features/global_duration_counts.csv 1.md",
     "notebooks/Map Heat/heatmap_aisp_adjusted_bold_labels.png",
     "data/raw/nivel_plot_overview.png",
     "notebooks/Map Heat/heatmap_sil_adjusted_bold_labels.png",
