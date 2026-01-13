@@ -14,7 +14,7 @@ Descripción general de los tipos de archivos que se encuentran aquí.
 
 ### Datos 
 Datos que se utilizaron en los scripts
--  [[data/interim/aisp.csv|aisp]]
+- [aisp.csv](data/interim/aisp.csv)
 -  [[data/processed/aisp_processed.csv|aisp_processed]]
 - [[aisp_local_processed.csv]]
 
