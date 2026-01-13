@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notebooks/merged/aisp_local/asip_local.md",
+                "file": "notebooks/merged/all/all.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "asip_local"
+              "title": "all"
             }
           }
         ],
@@ -214,8 +214,8 @@
   },
   "active": "145d66eef8317212",
   "lastOpenFiles": [
-    "notebooks/merged/aisp_local/aisp_local_nivel_cross_correlation.ipynb.md",
     "notebooks/merged/aisp_local/asip_local.md",
+    "notebooks/merged/aisp_local/aisp_local_nivel_cross_correlation.ipynb.md",
     "notebooks/merged/aisp/aisp.md",
     "notebooks/merged/merged.md",
     "notebooks/features/features.md",
