@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notebooks/merged/all/all.md",
+                "file": "notebooks/merged/sil/sil.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "all"
+              "title": "sil"
             }
           }
         ],
@@ -214,6 +214,9 @@
   },
   "active": "145d66eef8317212",
   "lastOpenFiles": [
+    "notebooks/merged/snd/snd.md",
+    "notebooks/merged/sil/sil.md",
+    "notebooks/merged/all/all.md",
     "notebooks/merged/aisp_local/asip_local.md",
     "notebooks/merged/aisp_local/aisp_local_nivel_cross_correlation.ipynb.md",
     "notebooks/merged/aisp/aisp.md",
@@ -228,7 +231,6 @@
     "notebook/aisp",
     "notebook",
     "scr/data/data.md",
-    "notebooks/merged/sil/sil.md",
     "FORMATO.md",
     "notebooks/merged/snd_local/snd_local.md",
     "notebooks/merged/sil/sil_nivel_merged_cross_correlation.ipynb",
@@ -238,7 +240,6 @@
     "notebooks/nivel/nivel.md",
     "bitacora/bitacora.md",
     "notebooks/nivel/peaks/peaks.md",
-    "notebooks/merged/all/all.md",
     "notebooks/merged/all/(Local)sil_snd_aisp_nivel_merged_plot.ipynb",
     "notebooks/merged/all/(Local)sil_snd_aisp_nivel.ipynb",
     "notebooks/merged/all/sil_snd_aisp_nivel_merged_plot.ipynb",
@@ -246,7 +247,6 @@
     "notebooks/notebooks.md",
     "[notebooks/features/global_duration_counts.csv.md",
     "notebooks/merged/snd_aisp/snd_aisp.md",
-    "notebooks/merged/snd/snd.md",
     "notebooks/merged/Sin título.md",
     "notebooks/Map Heat/heatmap.png",
     "[notebooks/features/global_duration_counts.csv 2.md",

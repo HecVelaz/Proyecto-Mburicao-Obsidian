@@ -49,7 +49,7 @@ Se crea el conjunto de datos [sil_snd_aisp_local_nivel_merged.csv](/data/externa
 - [sil_snd_aisp_nivel_merged_plot.ipynb](/notebooks/merged/all/sil_snd_aisp_nivel_merged_plot.ipynb)
 
 ## Flujo de uso
-[[(Local)sil_snd_aisp_nivel.ipynb]] ---------[[Cross_correlation.ipynb]] ------------- [[Mutual_information.ipynb]]
+[(Local)sil_snd_aisp_nivel.ipynb](/notebooks/merged/all/(Local)sil_snd_aisp_nivel.ipynb) ---------[Cross_correlation.ipynb](/notebooks/merged/all/Cross_correlation.ipynb) ------------- [Mutual_information.ipynb](/notebooks/merged/all/Mutual_information.ipynb)
 
 ## Entradas
 -  [aisp_local_nivel_merged.csv](/data/external/aisp_local_nivel_merged.csv) , [snd_local_nivel_merged.csv](/data/external/snd_local_nivel_merged.csv) , [sil_nivel_merged.csv](/data/external/sil_nivel_merged.csv) 
