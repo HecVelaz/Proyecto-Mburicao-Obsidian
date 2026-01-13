@@ -2,7 +2,7 @@
 Se leen y cargan los archivos LR_best_features_r2.csv y SVM_best_features_fn_2.csv
 y se pasan a formato excel , extension xlsx
 ## Contenido
-- [`csv_to_excel`](notebooks/csv_to_excel/csv_to_excel.ipynb)
+- [`csv_to_excel`](/notebooks/csv_to_excel/csv_to_excel.ipynb)
 
 ## Archivos relevantes
 
@@ -11,7 +11,7 @@ y se pasan a formato excel , extension xlsx
 - `SVM_best_features_fn_2.csv` — breve descripción
 
 ### Notebooks
--  [`csv_to_excel`](notebooks/csv_to_excel/csv_to_excel.ipynb) 
+-  [`csv_to_excel`](/notebooks/csv_to_excel/csv_to_excel.ipynb) 
 
 ## Flujo de uso
 
