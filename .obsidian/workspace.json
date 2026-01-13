@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notebooks/merged/sil/sil.md",
+                "file": "notebooks/merged/snd/snd.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "sil"
+              "title": "snd"
             }
           }
         ],
@@ -214,8 +214,13 @@
   },
   "active": "145d66eef8317212",
   "lastOpenFiles": [
+    "notebooks/aisp/aisp.md",
     "notebooks/merged/snd/snd.md",
+    "FORMATO.md",
     "notebooks/merged/sil/sil.md",
+    "notebooks/merged/snd/snd_nivel_merged_plot.ipynb",
+    "notebooks/merged/snd/snd_nivel_merged_cross_correlation.ipynb",
+    "notebooks/merged/snd/snd_nivel.ipynb",
     "notebooks/merged/all/all.md",
     "notebooks/merged/aisp_local/asip_local.md",
     "notebooks/merged/aisp_local/aisp_local_nivel_cross_correlation.ipynb.md",
@@ -224,14 +229,12 @@
     "notebooks/features/features.md",
     "notebooks/csv_to_excel/csv_to_excel.md",
     "data/external/external.md",
-    "notebooks/aisp/aisp.md",
     "notebooks/Map Heat/Map Heat.md",
     "notebooks/aisp/aisp_utc_local.ipynb.md",
     "notebook/aisp/aisp_preprocessing.ipynb.md",
     "notebook/aisp",
     "notebook",
     "scr/data/data.md",
-    "FORMATO.md",
     "notebooks/merged/snd_local/snd_local.md",
     "notebooks/merged/sil/sil_nivel_merged_cross_correlation.ipynb",
     "notebooks/merged/sil/sil_nivel.ipynb",
@@ -241,16 +244,12 @@
     "bitacora/bitacora.md",
     "notebooks/nivel/peaks/peaks.md",
     "notebooks/merged/all/(Local)sil_snd_aisp_nivel_merged_plot.ipynb",
-    "notebooks/merged/all/(Local)sil_snd_aisp_nivel.ipynb",
-    "notebooks/merged/all/sil_snd_aisp_nivel_merged_plot.ipynb",
-    "notebooks/merged/all/sil_snd_aisp_nivel.ipynb",
     "notebooks/notebooks.md",
     "[notebooks/features/global_duration_counts.csv.md",
     "notebooks/merged/snd_aisp/snd_aisp.md",
     "notebooks/merged/Sin título.md",
     "notebooks/Map Heat/heatmap.png",
     "[notebooks/features/global_duration_counts.csv 2.md",
-    "[global_duration_counts.csv.md",
     "notebooks/Map Heat/heatmap_aisp_adjusted_bold_labels.png",
     "data/raw/nivel_plot_overview.png",
     "notebooks/Map Heat/heatmap_sil_adjusted_bold_labels.png",
