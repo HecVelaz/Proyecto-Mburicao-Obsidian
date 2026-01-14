@@ -1,12 +1,25 @@
+
 ## Propósito
 Éste script sirve para crear un conjunto de datos que tendrán los tiempos y el nivel de los picos encontrados.
 
-## Notebooks incluidos
+## Contenido
 
-### 1. Notebook 
-- Archivo: `peak_detection.ipynb`
-- Función:
-  - Se carga el conjunto de datos nivel_processed de la carpeta external [[nivel_processed.csv|nivel_processed.csv]]
 
-###  Salida:
-- el archivo generado es [[peak_nivel_detection.csv]] alojado en external .
+- [peak_detection.ipynb](/notebooks/nivel/peaks/peak_detection.ipynb)
+
+## Archivos relevantes
+
+### Datos
+- sin datos
+
+### Notebooks
+- [peak_detection.ipynb](/notebooks/nivel/peaks/peak_detection.ipynb):
+	- Se carga [nivel_processed.csv](/data/processed/nivel_processed.csv)
+	- Se aplica un algoritmo para encontrar los picos 
+	- salida [peak_nivel_detection.csv](/data/external/peak_nivel_detection.csv)
+
+## Entradas
+- [nivel_processed.csv](/data/processed/nivel_processed.csv)
+
+## Salidas
+- [peak_nivel_detection.csv](/data/external/peak_nivel_detection.csv)

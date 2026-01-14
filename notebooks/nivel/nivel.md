@@ -1,23 +1,31 @@
 
 [[peaks]]
-
 ## Propósito
-Contiene 2 scripts , aquí se encuentran los scripts que plotean y procesan los datos de nivel 
+Contiene 2 scripts , aquí se encuentran los scripts que grafican y procesan los datos de nivel 
 
-## Notebooks incluidos
 
-### 1. Notebook de pre procesamiento 
-- Archivo: `nivel_preprocessing.ipynb`
-- Función:
-  - Se carga el conjunto de datos nivel.csv de interim [[data/interim/nivel.csv|nivel]]
-  - Se **normaliza la dimensión temporal** del dataset nivel y lo deja listo para análisis temporal.
-- Salida:
-  - DataFrame normalizado.
-  - Salida `nivel_processed.csv` [[nivel_processed.csv]]
-### 2. Notebook de ploteo
-- Archivo: `aisp_processed_plot.ipynb`
-- Función:
-  - Gráfico usando matplotlib 
-  - Se utiliza el conjunto de datos [[nivel_processed.csv]] ubicado en la carpeta processed y se carga además el conjunto de datos [[peak_detection_info.csv]]
-- Salida:
-  - Gráfico del nivel del arroyo superpuesto con los picos encontrados 
+## Contenido
+
+- [nivel_preprocessing.ipynb](/notebooks/nivel/nivel_preprocessing.ipynb)
+- [nivel_processed_plot.ipynb](/notebooks/nivel/nivel_processed_plot.ipynb)
+## Archivos relevantes
+
+### Datos
+- sin datos
+
+### Notebooks
+- [nivel_preprocessing.ipynb](/notebooks/nivel/nivel_preprocessing.ipynb)
+	- Se carga [nivel.csv](/data/interim/nivel.csv) 
+	- salida [nivel_processed.csv](/data/processed/nivel_processed.csv)
+	- salida [peak_detection_info.csv](/data/external/peak_detection_info.csv) 
+- [nivel_processed_plot.ipynb](/notebooks/nivel/nivel_processed_plot.ipynb):
+	- Se cargan  [nivel_processed.csv](/data/processed/nivel_processed.csv) y [peak_detection_info.csv](/data/external/peak_detection_info.csv) se grafica
+
+## Entradas
+- [nivel.csv](/data/interim/nivel.csv) 
+
+## Salidas
+- [nivel_processed.csv](/data/processed/nivel_processed.csv)
+- [peak_detection_info.csv](/data/external/peak_detection_info.csv) 
+
+

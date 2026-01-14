@@ -26,7 +26,7 @@ de los datos SND(Secretaría Nacional de deportes), este conjunto de datos no se
 ## Flujo de uso
 - [snd_nivel.ipynb](/notebooks/merged/snd/snd_nivel.ipynb):
 	- Se cargan [nivel_processed.csv](/data/processed/nivel_processed.csv) y [snd_processed.csv](/data/processed/snd_processed.csv)
-	- Se crea el nuevo conjunto de datos [snd_nivel_merged.csv](/data/external/snd_nivel_merged.csv)
+	- Se crea el nuevo conjunto de datos `snd_nivel_merged.csv`
 - [snd_nivel_merged_cross_correlation.ipynb](/notebooks/merged/snd/snd_nivel.ipynb):
 	- Se realiza la correlación cruzada 
 - [snd_nivel_merged_cross_correlation.ipynb](/notebooks/merged/snd/snd_nivel_merged_cross_correlation.ipynb):
@@ -39,7 +39,7 @@ de los datos SND(Secretaría Nacional de deportes), este conjunto de datos no se
 - [nivel_processed.csv](/data/processed/nivel_processed.csv) y [snd_processed.csv](/data/processed/snd_processed.csv)
 
 ## Salidas
-- [snd_nivel_merged.csv](/data/external/snd_nivel_merged.csv)
+- `snd_nivel_merged.csv`
 
 ## Observaciones
 - Supuestos
