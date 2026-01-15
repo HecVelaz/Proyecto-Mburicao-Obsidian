@@ -1,1 +1,1 @@
-Solo contiene la carpeta [[LR]]
+Solo contiene la carpeta `LR`

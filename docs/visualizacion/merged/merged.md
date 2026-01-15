@@ -1,4 +1,4 @@
-[[cross_correlation]]
+
 ## Contenido
 
 - [aisp_nivel_merged_event_plot.png](/docs/visualizacion/merged/aisp_nivel_merged_event_plot.png)

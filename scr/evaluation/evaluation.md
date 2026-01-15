@@ -1,4 +1,4 @@
-[[excel]]
+
 
 ## Propósito
 Breve descripción de qué contiene esta carpeta y qué rol cumple

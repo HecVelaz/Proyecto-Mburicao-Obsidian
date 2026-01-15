@@ -18,7 +18,5 @@ Cada carpeta documenta exactamente la carpeta homónima del proyecto.
 - [[docs]]
 - [[notebooks]]
 - [[scr]]
+- [[publicaciones]]
 
-## Documentación complementaria
-- [[bitacora]] — registro cronológico de trabajo
-- [[decisiones]] — decisiones técnicas y criterios adoptados
