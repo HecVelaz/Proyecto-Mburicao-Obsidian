@@ -8,21 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1538ca3edb277980",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "scr/utils/utils.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "utils"
-            }
-          },
-          {
-            "id": "6c4b3c853f336a6a",
+            "id": "fcd8f38e205e81e2",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -33,6 +19,34 @@
               },
               "icon": "lucide-file",
               "title": "FORMATO"
+            }
+          },
+          {
+            "id": "877d00a740070948",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/visualizacion/station/station.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "station"
+            }
+          },
+          {
+            "id": "8319be166e8a1f9d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/visualizacion/visualizacion.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "visualizacion"
             }
           }
         ]
@@ -197,54 +211,54 @@
       "bases:Crear nueva base": false
     }
   },
-  "active": "1538ca3edb277980",
+  "active": "fcd8f38e205e81e2",
   "lastOpenFiles": [
+    "docs/visualizacion/station/station.md",
+    "docs/visualizacion/visualizacion.md",
+    "docs/visualizacion/model/model.md",
     "FORMATO.md",
+    "docs/visualizacion/merged/merged.md",
+    "docs/visualizacion/model/LR/LR.md",
+    "docs/visualizacion/merged/cross_correlation/cross_correlation.md",
+    "docs/visualizacion/mburicao/mburicao.md",
+    "docs/docs.md",
+    "docs/visualizacion/station/snd_plot_overview.png",
+    "docs/visualizacion/station/sil_plot_overview.png",
+    "docs/visualizacion/station/aisp_plot_overview.png",
+    "docs/visualizacion/station",
+    "docs/visualizacion/model/LR/LR_best_features_rmse_results_plot.png",
+    "docs/visualizacion/model/LR/LR_best_features_r2_results_plot.png",
+    "docs/visualizacion/model/LR/LR_best_features_mape_results_plot.png",
+    "docs/visualizacion/model/LR",
+    "docs/visualizacion/model",
+    "docs/visualizacion/merged/cross_correlation/snd_nivel_cross_correlation.png",
+    "docs/visualizacion/merged/cross_correlation/snd_local_merged_cross_correlation.png",
+    "docs/visualizacion/merged/cross_correlation/sil_nivel_cross_correlation.png",
+    "docs/visualizacion/merged/cross_correlation",
+    "docs/visualizacion/merged/snd_nivel_merged_plot.png",
+    "docs/visualizacion/merged",
+    "docs/visualizacion/mburicao",
+    "notebooks/nivel/peaks/peaks.md",
     "scr/utils/utils.md",
+    "scr/scr.md",
+    "docs/visualizacion",
     "scr/models/models.md",
     "scr/utils/Untitled.ipynb",
     "scr/utils/map_heat.ipynb",
     "scr/utils/grid_search.ipynb",
-    "scr/models/Regresion_v2.png",
-    "scr/models/Regresion.png",
-    "scr/models/Multilinear_Regression_Analysis.png",
     "scr/evaluation/excel/excel.md",
-    "scr/models/SVM_model_true_event_plot.ipynb",
-    "scr/models/SVM_model_features_windows.ipynb",
-    "scr/models/SVM_model.ipynb",
-    "scr/models/Raw_Correlations_Rainfall_Peak_v2.png",
-    "scr/models/Raw_Correlations_Rainfall_Peak.png",
-    "scr/models/LR_model_features_windows.ipynb",
-    "scr/models/LR_model.ipynb",
-    "scr/evaluation/excel/~$LR_best_features_r2_excel.xlsx",
-    "scr/evaluation/excel/SVM_best_features_fn_excel_2.xlsx",
     "scr/evaluation/evaluation.md",
     "scr/data/data.md",
-    "scr/scr.md",
     "notebooks/sil/sil.md",
     "notebooks/snd/snd.md",
     "notebooks/nivel/nivel.md",
     "notebooks/nivel/sil_preprocessing.ipynb.md",
-    "notebooks/nivel/peaks/peaks.md",
     "notebooks/notebooks.md",
     "notebooks/merged/snd_local/snd_local.md",
     "notebooks/merged/snd_aisp/snd_aisp.md",
     "notebooks/merged/snd/snd.md",
     "notebooks/merged/sil/sil.md",
     "notebooks/merged/all/all.md",
-    "notebooks/merged/aisp_local/asip_local.md",
-    "notebooks/merged/aisp/aisp.md",
-    "notebooks/merged/merged.md",
-    "data/processed/processed.md",
-    "data/processed/local_processed.csv.md",
-    "notebooks/merged/snd_local/snd_local_merged_mutal_information.ipynb.md",
-    "notebooks/merged/snd_local/snd_local_merged_mutual_information.ipynb.md",
-    "data/external/snd_nivel_merged.csv.md",
-    "notebooks/Map Heat/heatmap.png",
-    "notebooks/Map Heat/heatmap_aisp_adjusted_bold_labels.png",
-    "data/raw/nivel_plot_overview.png",
-    "notebooks/Map Heat/heatmap_sil_adjusted_bold_labels.png",
-    "notebooks/Map Heat/heatmap_snd_adjusted_bold_labels.png",
     "Sin título.canvas"
   ]
 }

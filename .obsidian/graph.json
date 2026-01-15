@@ -27,18 +27,25 @@
         "a": 1,
         "rgb": 1366753
       }
+    },
+    {
+      "query": "path:docs/visualizacion  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1.14635416666667,
+  "textFadeMultiplier": -0.9,
+  "nodeSizeMultiplier": 0.814583333333333,
   "lineSizeMultiplier": 1.19739583333333,
   "collapse-forces": false,
-  "centerStrength": 0.518713248970312,
-  "repelStrength": 10,
-  "linkStrength": 0.427083333333333,
-  "linkDistance": 30,
-  "scale": 0.7132754626224396,
-  "close": true
+  "centerStrength": 0.286458333333333,
+  "repelStrength": 6.97916666666667,
+  "linkStrength": 0.703125,
+  "linkDistance": 64,
+  "scale": 0.5087618855792568,
+  "close": false
 }
