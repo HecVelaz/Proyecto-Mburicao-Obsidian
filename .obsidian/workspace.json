@@ -53,14 +53,10 @@
             "id": "fb072dd8f9d92858",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/docs.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "docs"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
             }
           }
         ],
@@ -228,6 +224,7 @@
   },
   "active": "fb072dd8f9d92858",
   "lastOpenFiles": [
+    "docs/docs.md",
     "notebooks/notebooks.md",
     "notebooks/merged/merged.md",
     "notebooks/merged/all/all.md",
@@ -251,7 +248,6 @@
     "publicaciones/poster2024",
     "scr/utils/utils.md",
     "publicaciones",
-    "docs/docs.md",
     "docs/visualizacion/merged/aisp_nivel_merged_event_plot.png",
     "docs/visualizacion/merged/aisp_nivel_merged_plot.png",
     "docs/visualizacion/mburicao/local_global_peak.png",
