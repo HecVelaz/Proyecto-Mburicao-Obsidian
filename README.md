@@ -194,7 +194,7 @@ Estas variables permiten representar no solamente la intensidad instantánea de 
 ## Ventanas temporales
 
 <p align="center">
-  <img src="docs/images/temporal_windows.png" width="85%" alt="Temporal rainfall windows">
+  <img src="publicaciones/imagenes/eventoss.jpg" width="85%" alt="Temporal rainfall windows">
 </p>
 
 Se experimentó con diferentes horizontes de predicción y longitudes de acumulación.
