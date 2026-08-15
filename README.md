@@ -254,7 +254,7 @@ La capacidad de generalización fue evaluada utilizando **5-fold cross-validatio
 ## Relación de las características seleccionadas
 
 <p align="center">
-  <img src="docs/images/feature_relationships.png" width="90%" alt="Relationship between rainfall features and peak water level">
+  <img src="publicaciones/imagenes/relacion.png" width="90%" alt="Relationship between rainfall features and peak water level">
 </p>
 
 La figura anterior permite visualizar individualmente la relación entre algunas de las variables seleccionadas y el nivel máximo observado.
