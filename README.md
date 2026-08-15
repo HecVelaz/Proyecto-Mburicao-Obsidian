@@ -1,8 +1,6 @@
 # Predicción de nivel y eventos críticos en el Arroyo Mburicao
 
-<p align="center">
-  <img src="publicaciones/imagenes/" width="100%" alt="Mburicao Stream Flood Prediction">
-</p>
+
 
 <p align="center">
   <b>Modelos de Machine Learning para la predicción de niveles máximos y detección de eventos críticos en el Arroyo Mburicao, Asunción, Paraguay.</b>
@@ -126,7 +124,7 @@ Para cada evento se identifica:
 * Precipitación acumulada en distintas ventanas temporales.
 
 <p align="center">
-  <img src="docs/images/event_definition.png" width="70%" alt="Flood event definition">
+  <img src="publicaciones/imagenes/evento.png" width="70%" alt="Flood event definition">
 </p>
 
 Esta representación permite transformar las series temporales continuas en eventos individuales que posteriormente pueden ser utilizados para entrenar los modelos.
