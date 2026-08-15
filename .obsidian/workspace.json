@@ -185,6 +185,9 @@
   },
   "active": "67d6254baafb3a53",
   "lastOpenFiles": [
+    "publicaciones/imagenes/estaciones.jpg",
+    "publicaciones/imagenes",
+    "publicaciones/Nueva carpeta",
     "README.md",
     "scr/models/Multilinear_Regression_Analysis.png",
     "scr/models/Raw_Correlations_Rainfall_Peak.png",
@@ -227,10 +230,7 @@
     "docs/visualizacion/merged/cross_correlation/cross_correlation.md",
     "docs/visualizacion/mburicao.local_global_peak.png.md",
     "docs/visualizacion/station",
-    "docs/visualizacion/model/LR",
-    "docs/visualizacion/model",
     "notebooks/nivel/peaks/peaks.md",
-    "scr/scr.md",
-    "scr/models/models.md"
+    "scr/scr.md"
   ]
 }

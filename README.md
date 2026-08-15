@@ -1,7 +1,7 @@
-# 🌊 Predicción de nivel y eventos críticos en el Arroyo Mburicao
+# Predicción de nivel y eventos críticos en el Arroyo Mburicao
 
 <p align="center">
-  <img src="docs/images/banner_mburicao.png" width="100%" alt="Mburicao Stream Flood Prediction">
+  <img src="publicaciones/imagenes/estaciones.jpg" width="100%" alt="Mburicao Stream Flood Prediction">
 </p>
 
 <p align="center">
