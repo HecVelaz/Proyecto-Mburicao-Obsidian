@@ -150,7 +150,7 @@ La **Información Mutua (Mutual Information)** permite medir relaciones entre la
 Ambos análisis fueron utilizados para orientar la creación y selección de variables predictoras.
 
 <p align="center">
-  <img src="docs/images/lag_analysis.png" width="85%" alt="Mutual Information and Cross-Correlation">
+  <img src="publicaciones/imagenes/ccmi.png" width="85%" alt="Mutual Information and Cross-Correlation">
 </p>
 
 El análisis temporal se limitó a un máximo de **80 minutos antes del pico**, evitando incorporar observaciones demasiado alejadas con menor información predictiva.
