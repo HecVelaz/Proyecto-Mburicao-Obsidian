@@ -49,7 +49,7 @@ y
 ## 🗺️ Área de estudio
 
 <p align="center">
-  <img src="docs/images/study_area.png" width="75%" alt="Mburicao basin and meteorological stations">
+  <img src="publicaciones/imagenes/estaciones.jpg" width="75%" alt="Mburicao basin and meteorological stations">
 </p>
 
 El estudio se desarrolla en la cuenca urbana del **Arroyo Mburicao**, en el área metropolitana de Asunción, Paraguay.
