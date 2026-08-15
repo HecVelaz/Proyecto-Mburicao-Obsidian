@@ -76,7 +76,7 @@ El conjunto principal contiene **56 eventos asociados a incrementos del nivel de
 # ⚙️ Metodología
 
 <p align="center">
-  <img src="publicaciones/imagenes/metodologia.png" width="90%" alt="Project methodology">
+  <img src="publicaciones/imagenes/metodologia2.png" width="90%" alt="Project methodology">
 </p>
 
 El flujo general del proyecto es:
