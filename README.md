@@ -415,7 +415,7 @@ En aplicaciones de alerta temprana, minimizar eventos críticos no detectados pu
 ## Visualización de eventos detectados
 
 <p align="center">
-  <img src="docs/images/classification_results.png" width="90%" alt="SVM critical event predictions">
+  <img src="publicaciones/imagenes/picos.jpg" width="90%" alt="SVM critical event predictions">
 </p>
 
 La visualización permite distinguir:
